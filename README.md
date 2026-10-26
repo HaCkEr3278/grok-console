@@ -4,6 +4,10 @@ A GitHub Pages website for talking to Grok in the browser, instead of a desktop 
 
 **Live site:** [https://hacker3278.github.io/grok-console/](https://hacker3278.github.io/grok-console/)
 
+**Repo:** [https://github.com/HaCkEr3278/grok-console](https://github.com/HaCkEr3278/grok-console)
+
+GitHub will 404 until Pages is switched on once: repo **Settings → Pages → Source: GitHub Actions**, then re-run the latest workflow under the **Actions** tab.
+
 Conversations and your API key stay in *your* browser. The page calls [api.x.ai](https://api.x.ai) directly (GitHub Pages is static, so there is no server of ours in the middle).
 
 ## Use it
